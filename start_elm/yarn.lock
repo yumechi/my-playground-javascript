@@ -723,11 +723,11 @@ __metadata:
   linkType: hard
 
 "minimatch@npm:^5.0.1":
-  version: 5.1.6
-  resolution: "minimatch@npm:5.1.6"
+  version: 5.1.7
+  resolution: "minimatch@npm:5.1.7"
   dependencies:
-    brace-expansion: "npm:^2.0.1"
-  checksum: 7564208ef81d7065a370f788d337cd80a689e981042cb9a1d0e6580b6c6a8c9279eba80010516e258835a988363f99f54a6f711a315089b8b42694f5da9d0d77
+    brace-expansion: ^2.0.1
+  checksum: 12dadb3ca39bd9c402d8f0d15a1c923395f58748f211bd3ff423918babeaef0975c415db73b82b3b78f907fa0fbe1d214197f8197ec2810f54ddc68f4939613d
   languageName: node
   linkType: hard
 
