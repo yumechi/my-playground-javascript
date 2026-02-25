@@ -614,7 +614,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fs.realpath", "npm:1.0.0"],\
             ["inflight", "npm:1.0.6"],\
             ["inherits", "npm:2.0.4"],\
-            ["minimatch", "npm:5.1.6"],\
+            ["minimatch", "npm:5.1.8"],\
             ["once", "npm:1.4.0"]\
           ],\
           "linkType": "HARD"\
@@ -842,10 +842,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["minimatch", [\
-        ["npm:5.1.6", {\
-          "packageLocation": "./.yarn/cache/minimatch-npm-5.1.6-1e71429f4c-7564208ef8.zip/node_modules/minimatch/",\
+        ["npm:5.1.8", {\
+          "packageLocation": "./.yarn/cache/minimatch-npm-5.1.8-8dbdaf6b7c-e8c0e8d97d.zip/node_modules/minimatch/",\
           "packageDependencies": [\
-            ["minimatch", "npm:5.1.6"],\
+            ["minimatch", "npm:5.1.8"],\
             ["brace-expansion", "npm:2.0.2"]\
           ],\
           "linkType": "HARD"\
