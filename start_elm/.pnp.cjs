@@ -298,7 +298,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minipass-pipeline", "npm:1.2.4"],\
             ["p-map", "npm:7.0.3"],\
             ["ssri", "npm:12.0.0"],\
-            ["tar", "npm:7.5.7"],\
+            ["tar", "npm:7.5.10"],\
             ["unique-filename", "npm:4.0.0"]\
           ],\
           "linkType": "HARD"\
@@ -977,7 +977,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nopt", "npm:8.1.0"],\
             ["proc-log", "npm:5.0.0"],\
             ["semver", "npm:7.7.2"],\
-            ["tar", "npm:7.5.7"],\
+            ["tar", "npm:7.5.10"],\
             ["tinyglobby", "npm:0.2.14"],\
             ["which", "npm:5.0.0"]\
           ],\
@@ -1276,10 +1276,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["tar", [\
-        ["npm:7.5.7", {\
-          "packageLocation": "./.yarn/cache/tar-npm-7.5.7-053aec5a88-82fa04804b.zip/node_modules/tar/",\
+        ["npm:7.5.10", {\
+          "packageLocation": "./.yarn/cache/tar-npm-7.5.10-83147ff192-aed1a7ae18.zip/node_modules/tar/",\
           "packageDependencies": [\
-            ["tar", "npm:7.5.7"],\
+            ["tar", "npm:7.5.10"],\
             ["@isaacs/fs-minipass", "npm:4.0.1"],\
             ["chownr", "npm:3.0.0"],\
             ["minipass", "npm:7.1.2"],\
